@@ -1,0 +1,24 @@
+.tshirt img {
+    width: 250px;
+    height: 300px;
+    border-radius: 15px;
+}
+
+.tshirt {
+    border: 2px solid lightblue;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.btn-buy-now {
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.btn-buy-now:hover {
+    background-color: orange;
+    color: black;
+    font-weight: bold;
+
+}
